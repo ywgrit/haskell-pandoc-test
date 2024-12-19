@@ -1,0 +1,250 @@
+libghc-quickcheck2-dev:
+ libghc-random-dev:
+  libghc-splitmix-dev
+
+libghc-colour-dev
+libghc-ansi-terminal-types-dev
+libghc-ansi-terminal-dev
+libghc-code-page-dev
+libghc-ghc-paths-dev
+libghc-syb-dev
+libghc-doctest-dev
+libghc-prettyprinter-dev
+libghc-prettyprinter-ansi-terminal-dev 待安装
+libghc-transformers-compat-dev
+libghc-optparse-applicative-dev
+libghc-tagged-dev
+libghc-unbounded-delays-dev
+libghc-tasty-dev
+libghc-tasty-quickcheck-dev
+libghc-quickcheck-classes-base-dev
+libghc-os-string-dev
+libghc-hashable-dev
+libghc-call-stack-dev
+libghc-hunit-dev
+libghc-prettyprinter-compat-ansi-wl-pprint-dev
+libghc-ansi-wl-pprint-dev
+libghc-hostname-dev
+libghc-old-locale-dev
+libghc-tasty-hunit-dev
+libghc-regex-base-dev
+libghc-regex-posix-dev
+libghc-xml-dev
+libghc-test-framework-dev
+libghc-extensible-exceptions-dev
+libghc-test-framework-hunit-dev
+libghc-async-dev
+libghc-primitive-dev
+libghc-haskell-lexer-dev
+libghc-hspec-expectations-dev
+libghc-quickcheck-io-dev
+libghc-tf-random-dev
+libghc-hspec-core-dev
+libghc-hspec-dev
+libghc-test-framework-quickcheck2-dev
+libghc-base64-bytestring-dev
+libghc-unliftio-core-dev
+libghc-typed-process-dev
+libghc-temporary-dev
+hspec-discover
+libghc-tasty-golden-prof
+libghc-tasty-golden-dev
+libghc-foundation-dev
+libghc-basement-dev
+libghc-memory-dev
+libghc-hourglass-dev
+libghc-asn1-types-dev
+libghc-asn1-encoding-dev
+libghc-tasty-kat-dev
+libghc-crypton-dev
+libghc-cereal-dev
+libghc-pem-dev
+libghc-asn1-parse-dev
+libghc-crypton-x509-dev
+libghc-data-default-class-dev
+libghc-crypton-x509-validation-dev
+libghc-crypton-x509-store-dev
+libghc-old-time-dev
+libghc-unix-time-dev
+libghc-network-dev
+libghc-tls-dev
+
+libghc-skylighting-core-dev：
+  libghc-aeson-dev
+  libghc-attoparsec-dev（已完成）
+    libghc-scientific-dev（已完成）
+      libghc-integer-logarithms-dev（已完成）
+        libghc-smallcheck-dev（已完成）
+          libghc-logict-dev（已完成）
+        libghc-tasty-smallcheck-dev（已完成）
+    libghc-quickcheck-unicode-dev（已完成）
+  libghc-case-insensitive-dev（已完成）
+    libghc-semigroups-dev（已完成）
+      libghc-unordered-containers-dev（已完成）
+        libghc-chasingbottoms-dev（已完成）
+        libghc-nothunks-dev（已完成）
+          libghc-hedgehog-dev（已完成）
+            libghc-barbies-dev（已完成）
+              libghc-distributive-dev（已完成）
+            libghc-concurrent-output-dev（已完成）
+              libghc-terminal-size-dev（已完成）
+            libghc-erf-dev（已完成）
+            libghc-lifted-async-dev（已完成）
+              libghc-constraints-dev（已完成）
+                libghc-boring-dev（已完成）
+              libghc-lifted-base-dev（已完成）
+                libghc-transformers-base-dev（已完成）
+                libghc-monad-control-dev（已完成）
+            libghc-mmorph-dev（已完成）
+            libghc-resourcet-dev（已完成）
+            libghc-safe-exceptions-dev（已完成）
+              libghc-void-dev（已完成）
+            libghc-wl-pprint-annotated-dev（已完成）
+            libghc-generic-deriving-dev（已完成）
+              libghc-th-abstraction-dev（已完成）
+          libghc-tasty-hedgehog-dev（已完成）
+            libghc-tasty-expected-failure-dev（已完成）
+  libghc-safe-dev（已完成）
+  libghc-utf8-string-dev（已完成）
+  libghc-xml-conduit-dev
+    libghc-blaze-html-dev（已完成）
+      libghc-blaze-builder-dev（已完成）
+      libghc-blaze-markup-dev（已完成）
+    libghc-blaze-markup-dev（已完成）
+    libghc-conduit-dev（已完成）
+      libghc-mono-traversable-dev（已完成）
+        libghc-split-dev（已完成）
+        libghc-vector-algorithms-dev（已完成）
+          libghc-bitvec-dev（已完成）
+            libghc-quickcheck-classes-dev（已完成）
+              libghc-aeson-dev（已完成）
+                libghc-onetuple-dev（已完成）
+                libghc-base-compat-batteries-dev（已完成）
+                  libghc-base-compat-dev（已完成）
+                libghc-data-fix-dev（已完成）
+                libghc-dlist-dev（已完成）
+                libghc-semialign-dev（已完成）
+                  libghc-indexed-traversable-instances-dev（已完成）
+                    libghc-quickcheck-instances-dev（已完成）
+                      libghc-strict-dev（已完成）
+                        libghc-these-dev（已完成）
+                      libghc-text-short-dev（已完成）
+                      libghc-time-compat-dev（已完成）
+                      libghc-uuid-types-dev（已完成）
+                  libghc-semigroupoids-dev（已完成）
+                    libghc-contravariant-dev（已完成）
+                      libghc-statevar-dev（已完成）
+                libghc-witherable-dev（已完成）
+                libghc-base16-bytestring-dev（已完成）
+              libghc-primitive-addr-dev（已完成）
+                libghc-bifunctors-dev（已完成）
+                  libghc-assoc-dev（已完成）
+                  libghc-comonad-dev（已完成）
+                    libghc-indexed-traversable-dev（已完成）
+                      libghc-foldable1-classes-compat-dev（已完成）
+              libghc-semirings-dev（已完成）
+        libghc-foldl-dev（已完成）
+          libghc-profunctors-dev（已完成）
+      libghc-silently-dev（已完成）
+      libghc-split-dev（已完成）
+      libghc-unliftio-dev（已完成）
+    libghc-conduit-extra-dev（已完成）
+      libghc-streaming-commons-dev（已完成）
+        libghc-zlib-dev（已完成）
+    libghc-xml-types-dev（已完成）
+    libghc-cabal-doctest-dev（已完成）
+    libghc-vector-prof（已完成）
+      libghc-vector-stream-dev（已完成）
+  libghc-xml-conduit-dev（已完成）
+  libghc-diff-dev（已完成）
+  libghc-pretty-show-dev（已完成）
+
+
+
+
+            libghc-base-orpans-dev
+              libghc-distributive-dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  libghc-asn1-encoding-dev
+    libghc-asn1-types-dev
+      libghc-hourglass-dev
+      libghc-memory-dev
+        libghc-basement-dev
+        libghc-foundation-dev
+  libghc-cereal-dev
+  libghc-crypton-dev
+    libghc-tasty-kat-dev
+  libghc-crypton-x509-dev
+    libghc-asn1-parse-dev
+    libghc-pem-dev
+  libghc-crypton-x509-store-dev
+  libghc-crypton-x509-validation-dev
+    libghc-data-default-class-dev
+  libghc-network-dev
+  libghc-unix-time-dev
+    libghc-old-time-dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+  libghc-async-dev
+    libghc-test-framework-dev
+      libghc-regex-posix-dev
+        libghc-regex-base-dev
+      libghc-xml-dev
+    libghc-test-framework-hunit-dev
+      libghc-extensible-exceptions-dev
+
+  libghc-temporary-dev
+  libghc-typed-process-dev
+    libghc-unliftio-core-dev
+    libghc-base64-bytestring-dev
+      libghc-test-framework-quickcheck2-dev
+    libghc-hspec-dev
+      libghc-hspec-core-dev
+        libghc-haskell-lexer-dev
+        libghc-hspec-expectations-dev
+        libghc-quickcheck-io-dev
+        libghc-tf-random-dev
+          libghc-primitive-dev
+
+
+
+
+千万不要apt install!!!!!!!
+
+pandoc的cabal的vector已经从0.13.2.0改为0.13.1.0了，但是vector的符号仍然相同。先看下dpkf的log中，vector库是否还有符号找不到，如果还是有，需要手动替换vector库，其他库也是如此：版本替换后已经没有未找到定义的符号了
+
+
+~/ghc-fork/ghc-release/ghc-check-final/pandoc/haskell-pandoc-3.1.11.1/log_12_17.uniq
+目前skylighting-core-dev没法通过deb包的方式安装，因为缺少依赖
+1、手动安装（千万不要apt install，因为所依赖的软件包如果没有被重新编译，是会存在R_LARCH_B26重定位项的）
+  libghc-tls-dev（未出现在pandoc的cabal的depend中）
+  libghc-skylighting-core-dev
+
+一定要手动安装出libghc-tls-dev和libghc-skylighting-core-dev。这两个库都是作为静态库被使用，因此可以直接在链接命令中被替换？
+
+
+2、修改pandoc的cabal依赖，将libghc-skylighting-core-dev的版本修改为0.14.3
