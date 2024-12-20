@@ -229,6 +229,7 @@ libghc-skylighting-core-dev：
         libghc-quickcheck-io-dev
         libghc-tf-random-dev
           libghc-primitive-dev
+libghc-skylighting-format-blaze-html-dev
 
 
 
