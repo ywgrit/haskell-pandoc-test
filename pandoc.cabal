@@ -370,8 +370,6 @@ extra-source-files:
                  test/lhs-test.rst+lhs
                  test/lhs-test.latex
                  test/lhs-test.latex+lhs
-                 test/lhs-test.html
-                 test/lhs-test.html+lhs
                  test/lhs-test.fragment.html+lhs
                  test/pipe-tables.txt
                  test/dokuwiki_external_images.dokuwiki
